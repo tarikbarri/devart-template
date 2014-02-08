@@ -1,5 +1,5 @@
 # Project Title
-Versum
+Versum (audiovisual sequencing in 3d)
 
 ## Authors
 Tarik Barri
@@ -103,7 +103,7 @@ The code is very complex already, with heaps and heaps of methods and classes, s
 Currently java, max/msp, max4live and ableton live are required to have Versum fully functional.
 
 ## Images & Videos
-Video link: http://tarikbarri.nl/projects/versum
+http://tarikbarri.nl/projects/versum
 
 http://www.youtube.com/watch?v=NXinV7BsIbE
 
