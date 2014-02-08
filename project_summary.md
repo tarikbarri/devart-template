@@ -104,6 +104,8 @@ Currently java, max/msp, max4live and ableton live are required to have Versum f
 
 ## Images & Videos
 Video link: http://tarikbarri.nl/projects/versum
+
 http://www.youtube.com/watch?v=NXinV7BsIbE
+
 https://vimeo.com/81614819 password: versum
 
